@@ -37,7 +37,7 @@
 |31| [Data-Driven Enhancement of ZT in SnSe-Based Thermoelectric Systems](https://doi.org/10.1021/jacs.2c04741)|2022
 |32|[Large Data Set-Driven Machine Learning Models for Accurate Prediction of the Thermoelectric Figure of Merit](https://doi.org/10.1021/acsami.2c15396) |2022
 |33| [Lattice Thermal Conductivity: An Accelerated Discovery Guided by Machine Learning](https://doi.org/10.1021/acsami.1c17378) |2021
-|34|
+|34|[Predicting thermoelectric properties from chemical formula with explicitly identifying dopant effects](https://doi.org/10.1038/s41524-021-00564-y)|2021
 |35|
 |36| 
 |37|[Coupling High-throughput Property Map to Machine Learning for Predicting Lattice Thermal Conductivity](https://doi.org/10.1021/acs.chemmater.9b01046)|2019
