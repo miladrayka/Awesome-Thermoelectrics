@@ -1,5 +1,5 @@
 
-| Number |Title |Year|
+| # |Title |Year|
 | :---------: |----- | --- |
 |1| [Machine learning discovery of medium-entropy thermoelectric materials with ultralow lattice thermal conductivity](https://doi.org/10.1039/d5ta09114d)|2026
 |2|[Interpretable machine learning for thermoelectric materials design with Kolmogorov–Arnold networks](https://doi.org/10.1038/s41598-026-44723-x)|2026
