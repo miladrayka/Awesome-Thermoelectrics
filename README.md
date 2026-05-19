@@ -17,7 +17,7 @@
 |11|[Recent strides in artificial intelligence for predicting thermoelectric properties and materials discovery](https://doi.org/10.1088/2515-7655/adba87)|2025
 |12|[Leveraging Machine Learning for Thermoelectric Material Design: Addressing Composition−Property Relations and Data Imbalance Challenges](https://doi.org/10.1021/acsaem.5c02885)|2025
 |13|[Data-driven exploration of Na–Bi compounds: a ﬁrst-principles and machine learning approach to topological thermoelectrics](https://doi.org/10.1039/d5ra05888k)|2025
-|14|
+|14|[Unlocking Thermoelectric Potential: A Machine Learning Stacking Approach for Half-Heusler Alloys](https://doi.org/10.1021/acsaem.5c02223)|2025
 |15|
 |16|
 |17|
