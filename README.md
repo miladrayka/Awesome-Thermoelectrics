@@ -6,4 +6,4 @@
 |    3    |[Thermoelectric Properties in Skutterudite Materials: Integrating Experimental Data, Density Functional Theory, and Machine Learning](https://doi.org/10.1021/acsaem.5c00445) |2025
 |    4    | [Lattice Thermal Conductivity: An Accelerated Discovery Guided by Machine Learning](https://doi.org/10.1021/acsami.1c17378) |2021
 |    5    | [Large Data Set-Driven Machine Learning Models for Accurate Prediction of the Thermoelectric Figure of Merit](https://doi.org/10.1021/acsami.2c15396) |2022
-|    6    | [Thermoelectric Material Performance (zT) Predictions with Machine Learning] (https://doi.org/10.1021/acsami.4c19149) |2025
+|    6    | [Thermoelectric Material Performance (zT) Predictions with Machine Learning](https://doi.org/10.1021/acsami.4c19149) |2025
