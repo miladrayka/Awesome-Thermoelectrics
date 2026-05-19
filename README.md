@@ -10,7 +10,7 @@
 |7| 
 |8|[Machine Learning-Driven Inverse Design and Role of Dopant for Tuning Thermoelectric Efficiency](https://doi.org/10.1021/acsaelm.4c00808)    |2024
 |9| [Interpretable Machine Learning Model on Thermal Conductivity Using Publicly Available Datasets and Our Internal Lab Dataset](https://doi.org/10.1021/acs.chemmater.4c01696)|2024
-|10| 
+|10| [Machine learning based feature engineering for thermoelectric materials by design](https://doi.org/10.1039/d3dd00131h)|2024
 |11|[Machine learning for predicting ZT values of high-performance thermoelectric materials in mid-temperature range](https://doi.org/10.1063/5.0160055)|2023
 |12| [Artiﬁcial Intelligence Guided Thermoelectric Materials Design and Discovery](https://doi.org/10.1002/aelm.202300042) |2023
 |13| [Interpretable Machine Learning Workflow for Evaluating and Analyzing the Performance of High-Entropy GeTe-Based Thermoelectric Materials](https://doi.org/10.1021/acsaelm.3c00692) |2023
