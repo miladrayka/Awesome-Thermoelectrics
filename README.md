@@ -8,15 +8,15 @@
 |5| [Sustainable Thermoelectric Materials Predicted by Machine Learning](https://doi.org/10.1002/adts.202200351)|2025
 |6| [Large language model-driven database for thermoelectric materials](https://doi.org/10.1016/j.commatsci.2025.113855)|2025
 |7| [Machine learning for accelerated prediction of lattice thermal conductivity at arbitrary temperature](https://doi.org/10.1039/d4dd00286e)|2025
-|8|   [Exploiting chemical bonding principles to design high-performance thermoelectric materials](https://doi.org/10.1038/s41570-025-00695-6)|2025
-|9| [Machine Learning-Driven Inverse Design and Role of Dopant for Tuning Thermoelectric Efficiency](https://doi.org/10.1021/acsaelm.4c00808)    |2024
+|8| [Exploiting chemical bonding principles to design high-performance thermoelectric materials](https://doi.org/10.1038/s41570-025-00695-6)|2025
+|9| [Human-Machine Collaborative Design of SnTe-Based Thermoelectric Materials via a Multiagent Framework Leveraging Large Language Models](https://doi.org/10.1021/acsami.5c16158)|2025
 |10| [Interpretable Machine Learning Model on Thermal Conductivity Using Publicly Available Datasets and Our Internal Lab Dataset](https://doi.org/10.1021/acs.chemmater.4c01696)|2024
 |11| [Machine learning based feature engineering for thermoelectric materials by design](https://doi.org/10.1039/d3dd00131h)|2024
-|12|[Machine learning for predicting ZT values of high-performance thermoelectric materials in mid-temperature range](https://doi.org/10.1063/5.0160055)|2023
+|12|[Machine Learning-Driven Inverse Design and Role of Dopant for Tuning Thermoelectric Efficiency](https://doi.org/10.1021/acsaelm.4c00808)    |2024
 |13| [Artiﬁcial Intelligence Guided Thermoelectric Materials Design and Discovery](https://doi.org/10.1002/aelm.202300042) |2023
 |14| [Interpretable Machine Learning Workflow for Evaluating and Analyzing the Performance of High-Entropy GeTe-Based Thermoelectric Materials](https://doi.org/10.1021/acsaelm.3c00692) |2023
 |15| [TEXplorer.org: Thermoelectric material properties data platform for experimental and first-principles calculation results](https://doi.org/10.1063/5.0137642)|2023
-|16| 
+|16| [Machine learning for predicting ZT values of high-performance thermoelectric materials in mid-temperature range](https://doi.org/10.1063/5.0160055)|2023
 |17| 
 |18| 
 |19|[Large Data Set-Driven Machine Learning Models for Accurate Prediction of the Thermoelectric Figure of Merit](https://doi.org/10.1021/acsami.2c15396) |2022
