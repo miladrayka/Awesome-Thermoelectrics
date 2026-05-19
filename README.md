@@ -11,7 +11,7 @@
 |8| [Machine learning for accelerated prediction of lattice thermal conductivity at arbitrary temperature](https://doi.org/10.1039/d4dd00286e)|2025
 |9| [Exploiting chemical bonding principles to design high-performance thermoelectric materials](https://doi.org/10.1038/s41570-025-00695-6)|2025
 |10| [Human-Machine Collaborative Design of SnTe-Based Thermoelectric Materials via a Multiagent Framework Leveraging Large Language Models](https://doi.org/10.1021/acsami.5c16158)|2025
-|11|
+|11|[Recent strides in artificial intelligence for predicting thermoelectric properties and materials discovery](https://doi.org/10.1088/2515-7655/adba87)|2025
 |12|
 |13|
 |14|
