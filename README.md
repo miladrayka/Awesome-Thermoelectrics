@@ -24,7 +24,7 @@
 |18| [Interpretable Machine Learning Model on Thermal Conductivity Using Publicly Available Datasets and Our Internal Lab Dataset](https://doi.org/10.1021/acs.chemmater.4c01696)|2024
 |19| [Machine learning based feature engineering for thermoelectric materials by design](https://doi.org/10.1039/d3dd00131h)|2024
 |20|[Machine Learning-Driven Inverse Design and Role of Dopant for Tuning Thermoelectric Efficiency](https://doi.org/10.1021/acsaelm.4c00808)    |2024
-|21|
+|21|[Wenzhou TE: A First-Principle-Calculated Thermoelectric Materials Database](https://doi.org/10.3390/ma17102200)|2024
 |22|
 |23|
 |24| [Artiﬁcial Intelligence Guided Thermoelectric Materials Design and Discovery](https://doi.org/10.1002/aelm.202300042) |2023
