@@ -28,7 +28,7 @@
 |25| [Interpretable Machine Learning Workflow for Evaluating and Analyzing the Performance of High-Entropy GeTe-Based Thermoelectric Materials](https://doi.org/10.1021/acsaelm.3c00692) |2023
 |26| [TEXplorer.org: Thermoelectric material properties data platform for experimental and first-principles calculation results](https://doi.org/10.1063/5.0137642)|2023
 |27| [Machine learning for predicting ZT values of high-performance thermoelectric materials in mid-temperature range](https://doi.org/10.1063/5.0160055)|2023
-|28|
+|28|[High-throughput computational discovery of 3218 ultralow thermal conductivity and dynamically stable materials by dual machine learning models](https://doi.org/10.1039/d3ta04874h)|2023
 |29|
 |30| 
 |31| [Data-Driven Enhancement of ZT in SnSe-Based Thermoelectric Systems](https://doi.org/10.1021/jacs.2c04741)|2022
