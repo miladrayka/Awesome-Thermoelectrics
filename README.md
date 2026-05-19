@@ -26,7 +26,7 @@
 |20|[Machine Learning-Driven Inverse Design and Role of Dopant for Tuning Thermoelectric Efficiency](https://doi.org/10.1021/acsaelm.4c00808)    |2024
 |21|[Wenzhou TE: A First-Principle-Calculated Thermoelectric Materials Database](https://doi.org/10.3390/ma17102200)|2024
 |22|
-|23|
+|23|[Predicting lattice thermal conductivity via machine learning: a mini review](https://doi.org/10.1038/s41524-023-00964-2)|2023
 |24| [Artiﬁcial Intelligence Guided Thermoelectric Materials Design and Discovery](https://doi.org/10.1002/aelm.202300042) |2023
 |25| [Interpretable Machine Learning Workflow for Evaluating and Analyzing the Performance of High-Entropy GeTe-Based Thermoelectric Materials](https://doi.org/10.1021/acsaelm.3c00692) |2023
 |26| [TEXplorer.org: Thermoelectric material properties data platform for experimental and first-principles calculation results](https://doi.org/10.1063/5.0137642)|2023
