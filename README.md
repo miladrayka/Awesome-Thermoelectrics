@@ -12,7 +12,7 @@
 |9| [Active Learning-Guided Accelerated Discovery of Ultra-Eﬃcient High-Entropy Thermoelectrics](https://doi.org/10.1002/adma.202515054)|2025
 |10| [Sustainable Thermoelectric Materials Predicted by Machine Learning](https://doi.org/10.1002/adts.202200351)|2025
 |11|[Machine learning for predicting ZT values of high-performance thermoelectric materials in mid-temperature range](https://doi.org/10.1063/5.0160055)|2023
-||12| 
+|12| [Perspective: Web-based machine learning models for real-time screening of thermoelectric materials properties](https://doi.org/10.1063/1.4952607)|2016
 |13| 
 |14| 
 |15| 
