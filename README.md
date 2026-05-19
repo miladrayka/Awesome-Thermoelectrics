@@ -38,7 +38,7 @@
 |35|
 |36| 
 |37|[Coupling High-throughput Property Map to Machine Learning for Predicting Lattice Thermal Conductivity](https://doi.org/10.1021/acs.chemmater.9b01046)|2019
-|38|
+|38|[Prediction of Seebeck Coefficient for Compounds without Restriction to Fixed Stoichiometry: A Machine Learning Approach](https://doi.org/10.1002/jcc.25067)|2017
 |39|[TE Design Lab: A virtual laboratory for thermoelectric material design](http://dx.doi.org/10.1016/j.commatsci.2015.11.006)|2016
 |40|[Perspective: Web-based machine learning models for real-time screening of thermoelectric materials properties](https://doi.org/10.1063/1.4952607)|2016
 |41|
