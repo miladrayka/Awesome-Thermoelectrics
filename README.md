@@ -10,7 +10,7 @@
 |7| [Artiﬁcial Intelligence Guided Thermoelectric Materials Design and Discovery](https://doi.org/10.1002/aelm.202300042) |2023
 |8|[AI-Driven Defect Engineering for Advanced Thermoelectric Materials](https://doi.org/10.1002/adma.202505642)|2025
 |9| [Active Learning-Guided Accelerated Discovery of Ultra-Eﬃcient High-Entropy Thermoelectrics](https://doi.org/10.1002/adma.202515054)|2025
-|10| 
+|10| [Sustainable Thermoelectric Materials Predicted by Machine Learning](https://doi.org/10.1002/adts.202200351)|2025
 |11| 
 |12| 
 |13| 
