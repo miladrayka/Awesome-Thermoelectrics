@@ -20,8 +20,8 @@
 |17| 
 |18|[Large Data Set-Driven Machine Learning Models for Accurate Prediction of the Thermoelectric Figure of Merit](https://doi.org/10.1021/acsami.2c15396) |2022
 |19| [Lattice Thermal Conductivity: An Accelerated Discovery Guided by Machine Learning](https://doi.org/10.1021/acsami.1c17378) |2021
-|20| [Perspective: Web-based machine learning models for real-time screening of thermoelectric materials properties](https://doi.org/10.1063/1.4952607)|2016
-|21|
+|20| 
+|21|[Coupling High-throughput Property Map to Machine Learning for Predicting Lattice Thermal Conductivity](https://doi.org/10.1021/acs.chemmater.9b01046)|2019
 |22|
-|23|
+|23|[Perspective: Web-based machine learning models for real-time screening of thermoelectric materials properties](https://doi.org/10.1063/1.4952607)|2016
 |24|[Data-Driven Review of Thermoelectric Materials: Performance and Resource Considerations](https://dx.doi.org/10.1021/cm400893e)|2013
