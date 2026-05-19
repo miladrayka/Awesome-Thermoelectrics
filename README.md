@@ -6,7 +6,7 @@
 |3|[AI-Driven Defect Engineering for Advanced Thermoelectric Materials](https://doi.org/10.1002/adma.202505642)|2025
 |4| [Active Learning-Guided Accelerated Discovery of Ultra-Eﬃcient High-Entropy Thermoelectrics](https://doi.org/10.1002/adma.202515054)|2025
 |5| [Sustainable Thermoelectric Materials Predicted by Machine Learning](https://doi.org/10.1002/adts.202200351)|2025
-|6| 
+|6| [Large language model-driven database for thermoelectric materials](https://doi.org/10.1016/j.commatsci.2025.113855)|2025
 |7| 
 |8|[Machine Learning-Driven Inverse Design and Role of Dopant for Tuning Thermoelectric Efficiency](https://doi.org/10.1021/acsaelm.4c00808)    |2024
 |9| [Interpretable Machine Learning Model on Thermal Conductivity Using Publicly Available Datasets and Our Internal Lab Dataset](https://doi.org/10.1021/acs.chemmater.4c01696)|2024
