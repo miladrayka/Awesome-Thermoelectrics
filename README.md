@@ -29,7 +29,7 @@
 |26| [TEXplorer.org: Thermoelectric material properties data platform for experimental and first-principles calculation results](https://doi.org/10.1063/5.0137642)|2023
 |27| [Machine learning for predicting ZT values of high-performance thermoelectric materials in mid-temperature range](https://doi.org/10.1063/5.0160055)|2023
 |28|[High-throughput computational discovery of 3218 ultralow thermal conductivity and dynamically stable materials by dual machine learning models](https://doi.org/10.1039/d3ta04874h)|2023
-|29|
+|29|[Experimentally validated machine learning predictions of ultralow thermal conductivity for SnSe materials](https://doi.org/10.1039/d3tc01450a)|2023
 |30| 
 |31| [Data-Driven Enhancement of ZT in SnSe-Based Thermoelectric Systems](https://doi.org/10.1021/jacs.2c04741)|2022
 |32|[Large Data Set-Driven Machine Learning Models for Accurate Prediction of the Thermoelectric Figure of Merit](https://doi.org/10.1021/acsami.2c15396) |2022
