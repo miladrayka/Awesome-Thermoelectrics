@@ -12,7 +12,7 @@
 |9| [Exploiting chemical bonding principles to design high-performance thermoelectric materials](https://doi.org/10.1038/s41570-025-00695-6)|2025
 |10| [Human-Machine Collaborative Design of SnTe-Based Thermoelectric Materials via a Multiagent Framework Leveraging Large Language Models](https://doi.org/10.1021/acsami.5c16158)|2025
 |11|[Recent strides in artificial intelligence for predicting thermoelectric properties and materials discovery](https://doi.org/10.1088/2515-7655/adba87)|2025
-|12|
+|12|[Leveraging Machine Learning for Thermoelectric Material Design: Addressing Composition−Property Relations and Data Imbalance Challenges](https://doi.org/10.1021/acsaem.5c02885)|2025
 |13|
 |14|
 |15|
