@@ -39,7 +39,7 @@
 |33| [Lattice Thermal Conductivity: An Accelerated Discovery Guided by Machine Learning](https://doi.org/10.1021/acsami.1c17378) |2021
 |34|[Predicting thermoelectric properties from chemical formula with explicitly identifying dopant effects](https://doi.org/10.1038/s41524-021-00564-y)|2021
 |35|
-|36| 
+|36| [Data-driven analysis of electron relaxation times in PbTe-type thermoelectric materials](https://doi.org/10.1080/14686996.2019.1603885)|2019
 |37|[Coupling High-throughput Property Map to Machine Learning for Predicting Lattice Thermal Conductivity](https://doi.org/10.1021/acs.chemmater.9b01046)|2019
 |38|[Prediction of Seebeck Coefficient for Compounds without Restriction to Fixed Stoichiometry: A Machine Learning Approach](https://doi.org/10.1002/jcc.25067)|2017
 |39|[TE Design Lab: A virtual laboratory for thermoelectric material design](http://dx.doi.org/10.1016/j.commatsci.2015.11.006)|2016
