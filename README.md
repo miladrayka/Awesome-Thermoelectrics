@@ -1,4 +1,7 @@
+# ML for Thermoelectrics - Research Papers
 
+
+## Papers
 | # |Title |Year|
 | :---------: |----- | --- |
 |1| [Machine learning discovery of medium-entropy thermoelectric materials with ultralow lattice thermal conductivity](https://doi.org/10.1039/d5ta09114d)|2026
