@@ -1,4 +1,4 @@
-# Machine Learning for Thermoelectrics - Research Papers
+# ML for Thermoelectrics
 
 
 ## Papers
