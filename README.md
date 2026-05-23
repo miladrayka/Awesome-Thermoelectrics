@@ -39,7 +39,7 @@
 |33| [Machine learning based feature engineering for thermoelectric materials by design](https://doi.org/10.1039/d3dd00131h)|2024
 |34|[Machine Learning-Driven Inverse Design and Role of Dopant for Tuning Thermoelectric Efficiency](https://doi.org/10.1021/acsaelm.4c00808)    |2024
 |35|[Wenzhou TE: A First-Principle-Calculated Thermoelectric Materials Database](https://doi.org/10.3390/ma17102200)|2024
-|36|
+|36|[Leveraging language representation for materials exploration and discovery](https://doi.org/10.1038/s41524-024-01231-8)|2024
 |37|
 |38|
 |39|
