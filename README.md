@@ -8,7 +8,7 @@
 |2|[Interpretable machine learning for thermoelectric materials design with Kolmogorov–Arnold networks](https://doi.org/10.1038/s41598-026-44723-x)|2026
 |3|[Machine Learning Discovery of Record-Low Lattice Thermal Conductivity in Double Perovskites](https://doi.org/10.1002/advs.202515766)|2026
 |4|[Rational Design of Single-Phase High-Entropy Oxides via Large Language Model Data Mining and Explainable Machine Learning](https://doi.org/10.1021/acs.jcim.6c00752)|2026
-|5|
+|5|[Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates](https://doi.org/10.48550/arXiv.2605.11610)|2026
 |6|
 |7|
 |8|
