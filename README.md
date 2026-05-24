@@ -9,7 +9,7 @@
 |3|[Machine Learning Discovery of Record-Low Lattice Thermal Conductivity in Double Perovskites](https://doi.org/10.1002/advs.202515766)|2026
 |4|[Rational Design of Single-Phase High-Entropy Oxides via Large Language Model Data Mining and Explainable Machine Learning](https://doi.org/10.1021/acs.jcim.6c00752)|2026
 |5|[Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates](https://doi.org/10.48550/arXiv.2605.11610)|2026
-|6|
+|6|[Bridging Machine Learning and Zintl Phase Thermoelectric Materials: The Ca9–xEuxZn4.5–yCuySb9 System](https://doi.org/10.1021/acs.chemmater.6c00656)|2026
 |7|
 |8|
 |9|
