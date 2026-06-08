@@ -94,6 +94,7 @@
 |88|
 |89|[Data-Driven Review of Thermoelectric Materials: Performance and Resource Considerations](https://dx.doi.org/10.1021/cm400893e)|2013
 
-tool/method paper
+tool/method/framework paper
 [Matminer: An open source toolkit for materials data mining](https://doi.org/10.1016/j.commatsci.2018.05.018)|2018
 [Composition and structure analyzer/featurizer for explainable machine-learning models to predict solid state structures](https://doi.org/10.1039/d4dd00332b)|2025
+[Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design](https://doi.org/10.1021/acs.jcim.4c01676)|2024
