@@ -29,7 +29,7 @@
 |23|[Data-driven exploration of Na–Bi compounds: a ﬁrst-principles and machine learning approach to topological thermoelectrics](https://doi.org/10.1039/d5ra05888k)|2025
 |24|[Unlocking Thermoelectric Potential: A Machine Learning Stacking Approach for Half-Heusler Alloys](https://doi.org/10.1021/acsaem.5c02223)|2025
 |25|[Large Language Models (LLMs) for Materials Design](https://doi.org/10.1002/adfm.202525897)|2025
-|26|
+|26|[Deep learning methods for 2D material electronic properties](https://doi.org/10.1039/d5dd00155b)|2025
 |27|
 |28|
 |29|
