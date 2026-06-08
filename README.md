@@ -1,4 +1,4 @@
-# Awesome-Thermoelectrics: Machine Learning for Thermoelectrics
+# Machine Learning for Thermoelectrics
 
 A curated collection of research papers, datasets, and software tools at the intersection of machine learning and thermoelectric materials.
 
