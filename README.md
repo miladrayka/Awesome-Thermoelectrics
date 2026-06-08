@@ -61,7 +61,7 @@ This section includes papers that directly apply machine learning to predict, di
 |56|[Simulation and design of energy materials accelerated by machine learning](https://doi.org/10.1002/wcms.1421)|2020
 |57| [Data-driven analysis of electron relaxation times in PbTe-type thermoelectric materials](https://doi.org/10.1080/14686996.2019.1603885)|2019
 |58|[Coupling High-throughput Property Map to Machine Learning for Predicting Lattice Thermal Conductivity](https://doi.org/10.1021/acs.chemmater.9b01046)|2019
-|59|[Machine Learning Interatomic Potentials as EmergingTools for Materials Science](https://doi.org/10.1002/adma.201902765)|2019
+|59|[Machine Learning Interatomic Potentials as Emerging Tools for Materials Science](https://doi.org/10.1002/adma.201902765)|2019
 |60|[Prediction of Seebeck Coefficient for Compounds without Restriction to Fixed Stoichiometry: A Machine Learning Approach](https://doi.org/10.1002/jcc.25067)|2017
 |61|[TE Design Lab: A virtual laboratory for thermoelectric material design](http://dx.doi.org/10.1016/j.commatsci.2015.11.006)|2016
 |62|[Perspective: Web-based machine learning models for real-time screening of thermoelectric materials properties](https://doi.org/10.1063/1.4952607)|2016
