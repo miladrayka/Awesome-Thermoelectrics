@@ -60,8 +60,7 @@ A curated collection of research papers, datasets, and software tools at the int
 |52|[Coupling High-throughput Property Map to Machine Learning for Predicting Lattice Thermal Conductivity](https://doi.org/10.1021/acs.chemmater.9b01046)|2019
 |53|[Machine Learning Interatomic Potentials as Emerging Tools for Materials Science](https://doi.org/10.1002/adma.201902765)|2019
 |54|[Prediction of Seebeck Coefficient for Compounds without Restriction to Fixed Stoichiometry: A Machine Learning Approach](https://doi.org/10.1002/jcc.25067)|2017
-|55|[TE Design Lab: A virtual laboratory for thermoelectric material design](http://dx.doi.org/10.1016/j.commatsci.2015.11.006)|2016
-|56|[Perspective: Web-based machine learning models for real-time screening of thermoelectric materials properties](https://doi.org/10.1063/1.4952607)|2016
+|55|[Perspective: Web-based machine learning models for real-time screening of thermoelectric materials properties](https://doi.org/10.1063/1.4952607)|2016
 
 ## Datasets & Databases
 Curated collections of thermoelectric property data for model training and benchmarking.
@@ -87,3 +86,4 @@ Software libraries, featurization tools, and ML frameworks for materials informa
 |3|[Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design](https://doi.org/10.1021/acs.jcim.4c01676)|2024
 |4|[ChemML: A machine learning and informatics program package for the analysis, mining, and modeling of chemical and materials data](https://doi.org/10.1002/wcms.1458)|2020
 |5|[Matminer: An open source toolkit for materials data mining](https://doi.org/10.1016/j.commatsci.2018.05.018)|2018
+|6|[TE Design Lab: A virtual laboratory for thermoelectric material design](http://dx.doi.org/10.1016/j.commatsci.2015.11.006)|2016
