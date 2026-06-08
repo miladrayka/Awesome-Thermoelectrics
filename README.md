@@ -1,8 +1,8 @@
-# Machine Learning for Thermoelectrics
+# Machine Learning for Thermoelectric Materials
 
 A curated collection of research papers, datasets, and software tools at the intersection of machine learning and thermoelectric materials.
 
-##  Core Research: Machine Learning for Thermoelectric Materials
+##  Research Papers
 
 | # |Title |Year|
 |:---------:|-----|---|
