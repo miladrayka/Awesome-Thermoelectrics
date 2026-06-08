@@ -33,7 +33,7 @@
 |26|[Deep learning methods for 2D material electronic properties](https://doi.org/10.1039/d5dd00155b)|2025
 |27|[Classification-Based Detection and Quantification of Cross-Domain Data Bias in Materials Discovery](https://doi.org/10.1021/acs.jcim.4c01766)|2025
 |28|[PSCG-Net: A Multiscale Crystal Graph Neural Network for Accelerated Materials Discovery](https://doi.org/10.1021/acs.jcim.5c01460)|2025
-|29|
+|29|[Leveraging generative models with periodicity-aware, invertible and invariant representations for crystalline materials design](https://doi.org/10.1038/s43588-025-00797-7)|2025
 |30|
 |31|
 |32| [Interpretable Machine Learning Model on Thermal Conductivity Using Publicly Available Datasets and Our Internal Lab Dataset](https://doi.org/10.1021/acs.chemmater.4c01696)|2024
