@@ -70,7 +70,7 @@
 |63| [Lattice Thermal Conductivity: An Accelerated Discovery Guided by Machine Learning](https://doi.org/10.1021/acsami.1c17378) |2021
 |64|[Predicting thermoelectric properties from chemical formula with explicitly identifying dopant effects](https://doi.org/10.1038/s41524-021-00564-y)|2021
 |65|[Determining usefulness of machine learning in materials discovery using simulated research landscapes](https://doi.org/10.1039/d1cp01761f)|2021
-|66|
+|66|[Cross-property deep transfer learning framework for enhanced predictive analytics on small materials data](https://doi.org/10.1038/s41467-021-26921-5)|2021
 |67|[The Role of Machine Learning in the Understanding and Design of Materials](https://dx.doi.org/10.1021/jacs.0c09105)|2020
 |68|[Property-Oriented Material Design Based on a Data-Driven Machine Learning Technique](https://dx.doi.org/10.1021/acs.jpclett.0c00665)|2020
 |69|
