@@ -30,7 +30,7 @@
 |24|[Unlocking Thermoelectric Potential: A Machine Learning Stacking Approach for Half-Heusler Alloys](https://doi.org/10.1021/acsaem.5c02223)|2025
 |25|[Large Language Models (LLMs) for Materials Design](https://doi.org/10.1002/adfm.202525897)|2025
 |26|[Deep learning methods for 2D material electronic properties](https://doi.org/10.1039/d5dd00155b)|2025
-|27|
+|27|[Classification-Based Detection and Quantification of Cross-Domain Data Bias in Materials Discovery](https://doi.org/10.1021/acs.jcim.4c01766)|2025
 |28|
 |29|
 |30|
