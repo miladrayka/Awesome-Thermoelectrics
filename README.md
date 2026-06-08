@@ -62,7 +62,7 @@
 |55| [A public database of thermoelectric materials and system-identiﬁed material representation for data-driven discovery](https://doi.org/10.1038/s41524-022-00897-2)|2022
 |56| [Data-Driven Enhancement of ZT in SnSe-Based Thermoelectric Systems](https://doi.org/10.1021/jacs.2c04741)|2022
 |57|[Large Data Set-Driven Machine Learning Models for Accurate Prediction of the Thermoelectric Figure of Merit](https://doi.org/10.1021/acsami.2c15396) |2022
-|58|
+|58|[Recent advances and applications of deep learning methods in materials science](https://doi.org/10.1038/s41524-022-00734-6)|2022
 |59|
 |60|
 |61|[Compositionally restricted attention-based network for materials property predictions](https://doi.org/10.1038/s41524-021-00545-1)|2021
