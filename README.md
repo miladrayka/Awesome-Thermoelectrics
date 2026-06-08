@@ -11,7 +11,7 @@
 |5|[Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates](https://doi.org/10.48550/arXiv.2605.11610)|2026
 |6|[Bridging Machine Learning and Zintl Phase Thermoelectric Materials: The Ca9–xEuxZn4.5–yCuySb9 System](https://doi.org/10.1021/acs.chemmater.6c00656)|2026
 |7|[Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates](https://doi.org/10.48550/arXiv.2605.11610)|2026
-|8|
+|8|[Artificial Intelligence for Multiscale Modeling in Solid-State Physics and Chemistry: A Comprehensive Review](https://doi.org/10.1002/aisy.202501219)|2026
 |9|
 |10|
 |11|[Machine Learning Predictions of Thermopower for Thermoelectric Material Screening](https://doi.org/10.1021/acsaem.5c02609)|2025
