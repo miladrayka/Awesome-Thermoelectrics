@@ -1,4 +1,4 @@
-## 1. Core Research: Machine Learning for Thermoelectric Materials
+##  Core Research: Machine Learning for Thermoelectric Materials
 
 This section includes papers that directly apply machine learning to predict, discover, and optimize thermoelectric materials.
 | # |Title |Year|
@@ -67,7 +67,14 @@ This section includes papers that directly apply machine learning to predict, di
 |62|[Perspective: Web-based machine learning models for real-time screening of thermoelectric materials properties](https://doi.org/10.1063/1.4952607)|2016
 |63|[Data-Driven Review of Thermoelectric Materials: Performance and Resource Considerations](https://dx.doi.org/10.1021/cm400893e)|2013
 
-## 2. Foundational Methods, Tools, & Frameworks
+## Datasets & Databases
+| # |Title |Year|
+| :---------: |----- | --- |
+||[Sustainable Thermoelectric Materials Predicted by Machine Learning](https://doi.org/10.1002/adts.202200351)|2022
+||[Data-Driven Review of Thermoelectric Materials: Performance and Resource Considerations](https://dx.doi.org/10.1021/cm400893e)|2023
+
+
+## Foundational Methods, Tools, & Frameworks
 
 This section includes software toolkits, featurization libraries, and general ML frameworks that enable the research presented above. They are not specific to thermoelectrics but are essential to the field of materials informatics.
 
