@@ -74,7 +74,7 @@
 |66|[Cross-property deep transfer learning framework for enhanced predictive analytics on small materials data](https://doi.org/10.1038/s41467-021-26921-5)|2021
 |67|[The Role of Machine Learning in the Understanding and Design of Materials](https://dx.doi.org/10.1021/jacs.0c09105)|2020
 |68|[Property-Oriented Material Design Based on a Data-Driven Machine Learning Technique](https://dx.doi.org/10.1021/acs.jpclett.0c00665)|2020
-|69|
+|69|[Simulation and design of energy materials accelerated by machine learning](https://doi.org/10.1002/wcms.1421)|2020
 |70| [Data-driven analysis of electron relaxation times in PbTe-type thermoelectric materials](https://doi.org/10.1080/14686996.2019.1603885)|2019
 |71|[Coupling High-throughput Property Map to Machine Learning for Predicting Lattice Thermal Conductivity](https://doi.org/10.1021/acs.chemmater.9b01046)|2019
 |72|[Machine Learning Interatomic Potentials as EmergingTools for Materials Science](https://doi.org/10.1002/adma.201902765)|2019
