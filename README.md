@@ -96,3 +96,4 @@
 
 tool/method paper
 [Matminer: An open source toolkit for materials data mining](https://doi.org/10.1016/j.commatsci.2018.05.018)|2018
+[Composition and structure analyzer/featurizer for explainable machine-learning models to predict solid state structures](https://doi.org/10.1039/d4dd00332b)|2025
