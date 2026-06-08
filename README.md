@@ -101,3 +101,4 @@ tool/method/framework paper
 [Composition and structure analyzer/featurizer for explainable machine-learning models to predict solid state structures](https://doi.org/10.1039/d4dd00332b)|2025
 [Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design](https://doi.org/10.1021/acs.jcim.4c01676)|2024
 [Machine Learning Toolkits and Frameworks for Materials Design](https://doi.org/10.1002/wcms.70067)|2026
+[ChemML: A machine learning and informatics program package for the analysis, mining, and modeling of chemical and materials data](https://doi.org/10.1002/wcms.1458)|2020
