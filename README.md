@@ -31,7 +31,7 @@
 |25|[Large Language Models (LLMs) for Materials Design](https://doi.org/10.1002/adfm.202525897)|2025
 |26|[Deep learning methods for 2D material electronic properties](https://doi.org/10.1039/d5dd00155b)|2025
 |27|[Classification-Based Detection and Quantification of Cross-Domain Data Bias in Materials Discovery](https://doi.org/10.1021/acs.jcim.4c01766)|2025
-|28|
+|28|[PSCG-Net: A Multiscale Crystal Graph Neural Network for Accelerated Materials Discovery](https://doi.org/10.1021/acs.jcim.5c01460)|2025
 |29|
 |30|
 |31|
