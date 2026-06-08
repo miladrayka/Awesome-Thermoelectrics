@@ -65,7 +65,7 @@
 |58|
 |59|
 |60|
-|61|
+|61|[Compositionally restricted attention-based network for materials property predictions](https://doi.org/10.1038/s41524-021-00545-1)|2021
 |62|[Atomistic Line Graph Neural Network for improved materials property predictions](https://doi.org/10.1038/s41524-021-00650-1)|2021
 |63| [Lattice Thermal Conductivity: An Accelerated Discovery Guided by Machine Learning](https://doi.org/10.1021/acsami.1c17378) |2021
 |64|[Predicting thermoelectric properties from chemical formula with explicitly identifying dopant effects](https://doi.org/10.1038/s41524-021-00564-y)|2021
