@@ -71,7 +71,7 @@
 |65|[Determining usefulness of machine learning in materials discovery using simulated research landscapes](https://doi.org/10.1039/d1cp01761f)|2021
 |66|
 |67|[The Role of Machine Learning in the Understanding and Design of Materials](https://dx.doi.org/10.1021/jacs.0c09105)|2020
-|68|
+|68|[Property-Oriented Material Design Based on a Data-Driven Machine Learning Technique](https://dx.doi.org/10.1021/acs.jpclett.0c00665)|2020
 |69|
 |70| [Data-driven analysis of electron relaxation times in PbTe-type thermoelectric materials](https://doi.org/10.1080/14686996.2019.1603885)|2019
 |71|[Coupling High-throughput Property Map to Machine Learning for Predicting Lattice Thermal Conductivity](https://doi.org/10.1021/acs.chemmater.9b01046)|2019
