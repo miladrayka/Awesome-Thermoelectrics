@@ -1,7 +1,6 @@
-# ML for Thermoelectrics
+## 1. Core Research: Machine Learning for Thermoelectric Materials
 
-
-## Papers
+This section includes papers that directly apply machine learning to predict, discover, and optimize thermoelectric materials, focusing on key properties like the figure of merit (zT), Seebeck coefficient, and lattice thermal conductivity.
 | # |Title |Year|
 | :---------: |----- | --- |
 |1| [Machine learning discovery of medium-entropy thermoelectric materials with ultralow lattice thermal conductivity](https://doi.org/10.1039/d5ta09114d)|2026
@@ -69,9 +68,14 @@
 |63|[Perspective: Web-based machine learning models for real-time screening of thermoelectric materials properties](https://doi.org/10.1063/1.4952607)|2016
 |64|[Data-Driven Review of Thermoelectric Materials: Performance and Resource Considerations](https://dx.doi.org/10.1021/cm400893e)|2013
 
-tool/method/framework paper
-||[Machine Learning Toolkits and Frameworks for Materials Design](https://doi.org/10.1002/wcms.70067)|2026
-||[Composition and structure analyzer/featurizer for explainable machine-learning models to predict solid state structures](https://doi.org/10.1039/d4dd00332b)|2025
-||[Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design](https://doi.org/10.1021/acs.jcim.4c01676)|2024
-||[ChemML: A machine learning and informatics program package for the analysis, mining, and modeling of chemical and materials data](https://doi.org/10.1002/wcms.1458)|2020
-||[Matminer: An open source toolkit for materials data mining](https://doi.org/10.1016/j.commatsci.2018.05.018)|2018
+## 2. Foundational Methods, Tools, & Frameworks
+
+This section includes software toolkits, featurization libraries, and general ML frameworks that enable the research presented above. They are not specific to thermoelectrics but are essential to the field of materials informatics.
+
+| # |Title |Year|
+| :---------: |----- | --- |
+|1|[Machine Learning Toolkits and Frameworks for Materials Design](https://doi.org/10.1002/wcms.70067)|2026
+|2|[Composition and structure analyzer/featurizer for explainable machine-learning models to predict solid state structures](https://doi.org/10.1039/d4dd00332b)|2025
+|3|[Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design](https://doi.org/10.1021/acs.jcim.4c01676)|2024
+|4|[ChemML: A machine learning and informatics program package for the analysis, mining, and modeling of chemical and materials data](https://doi.org/10.1002/wcms.1458)|2020
+|5|[Matminer: An open source toolkit for materials data mining](https://doi.org/10.1016/j.commatsci.2018.05.018)|2018
