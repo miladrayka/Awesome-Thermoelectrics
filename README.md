@@ -38,7 +38,7 @@
 |31|
 |32| [Interpretable Machine Learning Model on Thermal Conductivity Using Publicly Available Datasets and Our Internal Lab Dataset](https://doi.org/10.1021/acs.chemmater.4c01696)|2024
 |33| [Machine learning based feature engineering for thermoelectric materials by design](https://doi.org/10.1039/d3dd00131h)|2024
-|34|[Machine Learning-Driven Inverse Design and Role of Dopant for Tuning Thermoelectric Efficiency](https://doi.org/10.1021/acsaelm.4c00808)    |2024
+|34|[Machine Learning-Driven Inverse Design and Role of Dopant for Tuning Thermoelectric Efficiency](https://doi.org/10.1021/acsaelm.4c00808)|2024
 |35|[Wenzhou TE: A First-Principle-Calculated Thermoelectric Materials Database](https://doi.org/10.3390/ma17102200)|2024
 |36|[Leveraging language representation for materials exploration and discovery](https://doi.org/10.1038/s41524-024-01231-8)|2024
 |37|
@@ -66,7 +66,7 @@
 |59|
 |60|
 |61|
-|62|
+|62|[Atomistic Line Graph Neural Network for improved materials property predictions](https://doi.org/10.1038/s41524-021-00650-1)|2021
 |63| [Lattice Thermal Conductivity: An Accelerated Discovery Guided by Machine Learning](https://doi.org/10.1021/acsami.1c17378) |2021
 |64|[Predicting thermoelectric properties from chemical formula with explicitly identifying dopant effects](https://doi.org/10.1038/s41524-021-00564-y)|2021
 |65|[Determining usefulness of machine learning in materials discovery using simulated research landscapes](https://doi.org/10.1039/d1cp01761f)|2021
