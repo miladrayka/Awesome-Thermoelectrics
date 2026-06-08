@@ -75,7 +75,7 @@
 |69|
 |70| [Data-driven analysis of electron relaxation times in PbTe-type thermoelectric materials](https://doi.org/10.1080/14686996.2019.1603885)|2019
 |71|[Coupling High-throughput Property Map to Machine Learning for Predicting Lattice Thermal Conductivity](https://doi.org/10.1021/acs.chemmater.9b01046)|2019
-|72|
+|72|[Machine Learning Interatomic Potentials as EmergingTools for Materials Science](https://doi.org/10.1002/adma.201902765)|2019
 |73|
 |74|
 |75|
