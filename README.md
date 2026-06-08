@@ -70,7 +70,7 @@
 |64|[Predicting thermoelectric properties from chemical formula with explicitly identifying dopant effects](https://doi.org/10.1038/s41524-021-00564-y)|2021
 |65|[Determining usefulness of machine learning in materials discovery using simulated research landscapes](https://doi.org/10.1039/d1cp01761f)|2021
 |66|
-|67|
+|67|[The Role of Machine Learning in the Understanding and Design of Materials](https://dx.doi.org/10.1021/jacs.0c09105)|2020
 |68|
 |69|
 |70| [Data-driven analysis of electron relaxation times in PbTe-type thermoelectric materials](https://doi.org/10.1080/14686996.2019.1603885)|2019
