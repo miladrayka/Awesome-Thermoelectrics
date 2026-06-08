@@ -10,11 +10,11 @@
 |4|[Rational Design of Single-Phase High-Entropy Oxides via Large Language Model Data Mining and Explainable Machine Learning](https://doi.org/10.1021/acs.jcim.6c00752)|2026
 |5|[Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates](https://doi.org/10.48550/arXiv.2605.11610)|2026
 |6|[Bridging Machine Learning and Zintl Phase Thermoelectric Materials: The Ca9–xEuxZn4.5–yCuySb9 System](https://doi.org/10.1021/acs.chemmater.6c00656)|2026
-|7|[Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates](https://doi.org/10.48550/arXiv.2605.11610)|2026
+|7|[Fast and Accurate Prediction of Lattice Thermal Conductivity via Machine Learning Surrogates](https://doi.org/10.48550/arXiv.2605.11610)|2026, (preprint)
 |8|[Artificial Intelligence for Multiscale Modeling in Solid-State Physics and Chemistry: A Comprehensive Review](https://doi.org/10.1002/aisy.202501219)|2026
 |9|[Artificial intelligence-driven approaches for materials design and discovery](https://doi.org/10.1038/s41563-025-02403-7)|2026
 |10|[Advances in Generative Models for Accelerated Discovery of New Materials](https://doi.org/10.1002/csc3.70010)|2026
-|| [Large Language Model-Assisted Discovery of Optimal Dopants for Enhanced Thermoelectric Performance in CoSb₃-Based Skutterudites](https://doi.org/10.48550/arXiv.2604.06048)|2026
+|| [Large Language Model-Assisted Discovery of Optimal Dopants for Enhanced Thermoelectric Performance in CoSb₃-Based Skutterudites](https://doi.org/10.48550/arXiv.2604.06048)|2026, (preprint)
 |11|[Machine Learning Predictions of Thermopower for Thermoelectric Material Screening](https://doi.org/10.1021/acsaem.5c02609)|2025
 |12| [Thermoelectric Properties in Skutterudite Materials: Integrating Experimental Data, Density Functional Theory, and Machine Learning](https://doi.org/10.1021/acsaem.5c00445) |2025
 |13| [Thermoelectric Material Performance (zT) Predictions with Machine Learning](https://doi.org/10.1021/acsami.4c19149) |2025
