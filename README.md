@@ -68,7 +68,7 @@
 |62|
 |63| [Lattice Thermal Conductivity: An Accelerated Discovery Guided by Machine Learning](https://doi.org/10.1021/acsami.1c17378) |2021
 |64|[Predicting thermoelectric properties from chemical formula with explicitly identifying dopant effects](https://doi.org/10.1038/s41524-021-00564-y)|2021
-|65|
+|65|[Determining usefulness of machine learning in materials discovery using simulated research landscapes](https://doi.org/10.1039/d1cp01761f)|2021
 |66|
 |67|
 |68|
