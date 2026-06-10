@@ -4,8 +4,8 @@ A curated collection of research papers, datasets, and software tools at the int
 
 ##  Research Papers
 
-| # |Title |Year|
-|:---------:|-----|---|
+| # | Title | Year |
+|:-:|-------|------|
 |1| [Machine learning discovery of medium-entropy thermoelectric materials with ultralow lattice thermal conductivity](https://doi.org/10.1039/d5ta09114d)|2026
 |2|[Interpretable machine learning for thermoelectric materials design with Kolmogorov–Arnold networks](https://doi.org/10.1038/s41598-026-44723-x)|2026
 |3|[Machine Learning Discovery of Record-Low Lattice Thermal Conductivity in Double Perovskites](https://doi.org/10.1002/advs.202515766)|2026
@@ -66,8 +66,8 @@ A curated collection of research papers, datasets, and software tools at the int
 Curated collections of thermoelectric property data for model training and benchmarking.
 
 
-| # |Title |Year|
-| :---------: |----- | --- |
+| # | Title | Year |
+|:-:|-------|------|
 |1|[Database and deep-learning scalability of anharmonic phonon properties by automated brute-force ﬁrst-principles calculations](https://doi.org/10.1038/s41524-026-02033-w)|2026
 |2|[Large language model-driven database for thermoelectric materials](https://doi.org/10.1016/j.commatsci.2025.113855)|2025
 |3|[Wenzhou TE: A First-Principle-Calculated Thermoelectric Materials Database](https://doi.org/10.3390/ma17102200)|2024
@@ -79,8 +79,8 @@ Curated collections of thermoelectric property data for model training and bench
 ## Tools & Frameworks
 Software libraries, featurization tools, and ML frameworks for materials informatics.
 
-| # |Title |Year|
-| :---------: |----- | --- |
+| # | Title | Year |
+|:-:|-------|------|
 |1|[Machine Learning Toolkits and Frameworks for Materials Design](https://doi.org/10.1002/wcms.70067)|2026
 |2|[Composition and structure analyzer/featurizer for explainable machine-learning models to predict solid state structures](https://doi.org/10.1039/d4dd00332b)|2025
 |3|[Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design](https://doi.org/10.1021/acs.jcim.4c01676)|2024
