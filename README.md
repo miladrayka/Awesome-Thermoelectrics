@@ -2,13 +2,11 @@
 
 A curated collection of research papers, datasets, and software tools at the intersection of machine learning and thermoelectric materials.
 
+<p align="center">
+  <img src="histogram.png" alt="Annual Growth Trends" width="600">
+</p>
+
 ##  Research Papers
-
-Here is the updated table with your additional papers integrated. They have been sorted in descending chronological order alongside your existing entries, and the list numbering has been updated sequentially.
-
-As the new papers did not include DOI links, they are listed as plain text titles while maintaining the Markdown structure of your original list.
-
-## Research Papers
 
 > [!TIP]
 > **Review papers, mini-reviews, and perspectives** are indicated with a star (**★**).
