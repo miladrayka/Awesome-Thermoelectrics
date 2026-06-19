@@ -2,6 +2,8 @@
 
 A curated collection of research papers, datasets, and software tools at the intersection of machine learning and thermoelectric materials.
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 <p align="center">
   <img src="histogram.png" alt="Annual Growth Trends" width="600">
 </p>
