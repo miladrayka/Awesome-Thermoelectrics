@@ -12,7 +12,7 @@ A curated collection of research papers, datasets, and software tools at the int
 - [Research Papers](#research-papers)
 - [Datasets & Databases](#datasets--databases)
 - [Tools & Frameworks](#tools--frameworks)
-...
+---
 
 ##  Research Papers
 
