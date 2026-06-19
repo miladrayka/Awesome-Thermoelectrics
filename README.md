@@ -8,6 +8,13 @@ A curated collection of research papers, datasets, and software tools at the int
   <img src="histogram.png" alt="Annual Growth Trends" width="600">
 </p>
 
+## Table of Contents
+
+- [Research Papers](#research-papers)
+- [Datasets & Databases](#datasets--databases)
+- [Tools & Frameworks](#tools--frameworks)
+- [Contributing](#contributing)
+
 ##  Research Papers
 
 > [!TIP]
