@@ -11,16 +11,6 @@ A curated collection of research papers, datasets, and software tools at the int
 > [!TIP]
 > **Review papers, mini-reviews, and perspectives** are indicated with a star (**★**).
 
-## Research Papers
-
-> [!TIP]
-> **Review papers, mini-reviews, and perspectives** are indicated with a star (**★**).
-
-## Research Papers
-
-> [!TIP]
-> **Review papers, mini-reviews, and perspectives** are indicated with a star (**★**).
-
 | # | Title | Year |
 | --- | --- | --- |
 | 1 | [Machine learning discovery of medium-entropy thermoelectric materials with ultralow lattice thermal conductivity](https://doi.org/10.1039/d5ta09114d) | 2026 |
