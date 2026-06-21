@@ -49,7 +49,7 @@ A curated collection of research papers, datasets, and software tools at the int
 | 38 | [Machine learning-assisted 3D printing of thermoelectric materials of ultrahigh performances at room temperature](https://www.google.com/search?q=https://doi.org/10.1038/s41467-024-46811-2) | 2024 | Nat. Commun. | Springer Nature |
 | 39 | [Discovery of the layered thermoelectric compound GeBi2Se4 and accelerating its performance optimization by machine learning](https://www.google.com/search?q=https://doi.org/10.1038/s41524-024-01255-0) | 2024 | npj Comput. Mater. | Springer Nature |
 | 40 | [Determination of electrical and thermal conductivities of n-and p-type thermoelectric materials by prediction iteration machine learning method](https://doi.org/10.1016/j.energy.2024.130985) | 2024 | Energy | Elsevier |
-| 41 | [Machine learning for next-generation thermoelectrics](https://www.google.com/search?q=https://doi.org/10.1016/j.joule.2024.01.012) ★ | 2024 | Joule | Elsevier (Cell Press) |
+| 41 | [Machine learning for next-generation thermoelectrics](https://www.google.com/search?q=https://doi.org/10.1016/j.joule.2024.01.012) ★ | 2024 | Joule | Elsevier |
 | 42 | [Interpretable Machine Learning Model on Thermal Conductivity Using Publicly Available Datasets and Our Internal Lab Dataset](https://doi.org/10.1021/acs.chemmater.4c01696) | 2024 | Chem. Mater. | ACS |
 | 43 | [Machine learning based feature engineering for thermoelectric materials by design](https://doi.org/10.1039/d3dd00131h) | 2024 | Digit. Discovery | RSC |
 | 44 | [Machine Learning-Driven Inverse Design and Role of Dopant for Tuning Thermoelectric Efficiency](https://doi.org/10.1021/acsaelm.4c00808) | 2024 | ACS Appl. Electron. Mater. | ACS |
