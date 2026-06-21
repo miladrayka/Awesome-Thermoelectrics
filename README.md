@@ -1,11 +1,11 @@
 # Machine Learning for Thermoelectric Materials
 *A curated collection of research papers, datasets, and software tools at the intersection of machine learning and thermoelectric materials.*
 
----
-
 <p align="center">
   <img src="https://github.com/miladrayka/Awesome-Thermoelectrics/blob/main/histogram.png" alt="Figure" width="600">
 </p>
+
+---
 
 ## Research Papers
 
