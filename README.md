@@ -153,5 +153,5 @@ Here is the updated table with the **Journal (ISO4)** column included:
 | 2 | [Composition and structure analyzer/featurizer for explainable machine-learning models to predict solid state structures](https://doi.org/10.1039/d4dd00332b) | 2025 | Digit. Discovery |
 | 3 | [Matini-Net: Versatile Material Informatics Research Framework for Feature Engineering and Deep Neural Network Design](https://doi.org/10.1021/acs.jcim.4c01676) | 2024 | J. Chem. Inf. Model. |
 | 4 | [ChemML: A machine learning and informatics program package for the analysis, mining, and modeling of chemical and materials data](https://doi.org/10.1002/wcms.1458) | 2020 | WIREs Comput. Mol. Sci. |
-|5|[Matminer: An open source toolkit for materials data mining](https://doi.org/10.1016/j.commatsci.2018.05.018)|2018
-|6|[TE Design Lab: A virtual laboratory for thermoelectric material design](http://dx.doi.org/10.1016/j.commatsci.2015.11.006)|2016
+|5|[Matminer: An open source toolkit for materials data mining](https://doi.org/10.1016/j.commatsci.2018.05.018)| 2018 | Comput. Mater. Sci. |
+|6|[TE Design Lab: A virtual laboratory for thermoelectric material design](http://dx.doi.org/10.1016/j.commatsci.2015.11.006)| 2016 | Comput. Mater. Sci. |
