@@ -145,8 +145,6 @@ Curated collections of thermoelectric property data for model training and bench
 ## Tools & Frameworks
 Software libraries, featurization tools, and ML frameworks for materials informatics.
 
-Here is the updated table with the **Journal (ISO4)** column included:
-
 | # | Title | Year | Journal |
 | --- | --- | --- | --- |
 | 1 | [Machine Learning Toolkits and Frameworks for Materials Design](https://doi.org/10.1002/wcms.70067) | 2026 | WIREs Comput. Mol. Sci. |
