@@ -3,6 +3,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/miladrayka/Awesome-Thermoelectrics/blob/main/histogram.png" alt="Figure" width="600">
+</p>
+
 ## Research Papers
 
 > **★** marks review papers, mini-reviews, and perspectives.
